@@ -1,5 +1,5 @@
 "use strict";
-
+//sup
 //Variables
 const Alexa = require('alexa-sdk');
 const APP_ID = '';
